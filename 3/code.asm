@@ -1,6 +1,6 @@
 .text
 .globl main
-.include "macros.s"
+.include "macros.asm"
 
 main:
     li t0, 1
